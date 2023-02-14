@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackDesertEnchantOptimizer", "BlackDesertEnchantOptimizer\BlackDesertEnchantOptimizer.csproj", "{26044519-1EC1-4C9B-AFDC-D1BE44178E21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BDOEnchantOptimizerLib", "BDOEnchantOptimizerLib\BDOEnchantOptimizerLib.csproj", "{2D6F859D-0D85-45DB-9751-A7E5F62373E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Description = BlackDesertEnchantOptimizer
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Debug|x64.ActiveCfg = Debug|x64
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Debug|x64.Build.0 = Debug|x64
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Release|x64.ActiveCfg = Release|x64
+		{26044519-1EC1-4C9B-AFDC-D1BE44178E21}.Release|x64.Build.0 = Release|x64
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Debug|x64.Build.0 = Debug|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Release|x64.ActiveCfg = Release|Any CPU
+		{2D6F859D-0D85-45DB-9751-A7E5F62373E0}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53290E17-636D-4080-97CE-8C5CFA91FC2C}
+	EndGlobalSection
+EndGlobal
